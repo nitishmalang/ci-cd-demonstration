@@ -38,7 +38,7 @@ Continuous Deployment: It's also used for Continuous Deployment (CD) to automate
 
 Workflow Runs: Each time the workflow is triggered, a workflow run is created, allowing you to track the history of executions.
 
-Logs and Debugging: You can view detailed logs to troubleshoot issues during workflow runs.
+Logs and Debugging: You can view detailed logs and metrics to troubleshoot issues during workflow runs.
 
 GitHub Workflows: GitHub Actions offers a powerful and integrated platform for automating various aspects of the software development process.
 
