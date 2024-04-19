@@ -1,5 +1,5 @@
 
-# demonstration of ci/cd pipeline of simple python web application using github action
+# Demonstration of CI/CD Pipeline of Simple Python Web Application Using Github Actions
 
 "Simplifying Development: Demonstrating CI/CD for Python Web Apps," offers a comprehensive demonstration of the Continuous Integration and Continuous Deployment (CI/CD) pipeline in action. The focus is on Python web applications, utilizing the efficiency and convenience of GitHub Actions for automation. Through a step-by-step walkthrough, we delve into how CI/CD pipelines can simplify the development and deployment of web applications. The project not only serves as an educational resource but also showcases the practical benefits of automating code integration and deployment processes, ultimately enhancing software development workflows.
 
